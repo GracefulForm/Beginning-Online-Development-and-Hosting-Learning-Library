@@ -19,6 +19,6 @@ I remember getting online for the first time, and the excitement of starting out
 If you feel that I have helped to save you time and money and if you would like to request a certain help topic, please visit my Ko-Fi with the button below:
 <center>
 <span>
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init(' Leave a Small Tip', '#eb8226', 'M4M31AR5Y5');kofiwidget2.draw();</script> 
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('', '#eb8226', 'M4M31AR5Y5');kofiwidget2.draw();</script> 
 </span>
     </center>
