@@ -16,3 +16,8 @@ I remember getting online for the first time, and the excitement of starting out
 * Website Design: 24+
 * Smartphone App Design: 10+
 
+If you feel that I have helped to save you time and money and if you would like to request a certain help topic, please visit my 
+
+<span class="w3-center w3-margin">
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Leave a Small Tip', '#eb8226', 'M4M31AR5Y5');kofiwidget2.draw();</script> 
+</span>
