@@ -6,9 +6,9 @@ taxonomy:
         - docs
 ---
 
-RackNerd: [1 CPU / 1 GB / $11.95 a year VPS](https://my.racknerd.com/aff.php?aff=3772&pid=903) (avg $1 / month)
-RackNerd: [1 CPU / 2 GB / $18.29 a year VPS](https://my.racknerd.com/aff.php?aff=3772&pid=904) (avg $1.53 / month)
-RackNerd: [2 CPU / 2 GB / $20.98 a year VPS](https://my.racknerd.com/aff.php?aff=3772&pid=681) (avg $1.75 / month)
+* RackNerd: [1 CPU / 1 GB / $11.95 a year VPS](https://my.racknerd.com/aff.php?aff=3772&pid=903) (avg $1 / month)
+* RackNerd: [1 CPU / 2 GB / $18.29 a year VPS](https://my.racknerd.com/aff.php?aff=3772&pid=904) (avg $1.53 / month)
+* RackNerd: [2 CPU / 2 GB / $20.98 a year VPS](https://my.racknerd.com/aff.php?aff=3772&pid=681) (avg $1.75 / month)
 
 ## About RackNerd
 
